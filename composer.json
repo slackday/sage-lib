@@ -22,6 +22,11 @@
     "issues": "https://github.com/roots/sage-lib/issues",
     "forum": "https://discourse.roots.io/"
   },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "9.x-dev"
+    }
+  },
   "autoload": {
     "psr-4": {
       "Roots\\Sage\\": ""
